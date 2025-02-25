@@ -21,6 +21,7 @@
 
 body {
     color: #fbf9f4;
+    min-width: 1920px;
 }
 
 a {
@@ -76,7 +77,7 @@ li {
     transition: 0.5s;
     transform: scale(1.2);
     opacity: 1;
-    
+
 }
 
 /* visual */
